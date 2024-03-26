@@ -51,8 +51,8 @@
     "object-assign": "^4.1.1"
   },
   "peerDependencies": {
-    "react": ">=16.8.0",
-    "react-dom": ">=16.8.0",
+    "react": ">=16.8.0||^17.0||^18.0",
+    "react-dom": ">=16.8.0||^17.0||^18.0",
     "swiper": ">=5.0.0"
   },
   "devDependencies": {
